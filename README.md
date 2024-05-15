@@ -1,2 +1,2 @@
 # nds-header-reader
-reads data from nds header files
+reads header from nds read only memory
